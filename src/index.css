@@ -1,7 +1,7 @@
 /* General Container Styling */
 .container {
   max-width: 1200px;
-  margin-left: 90px;
+  margin-left: 25px;
   padding: 20px;
   font-family: 'Arial', sans-serif;
   display: flex;
