@@ -40,7 +40,7 @@
   margin-top: 20px;
   overflow-x: auto;
   display: block;
-  max-height: 600px; /* Adjust height as needed */
+  max-height: 400px; /* Adjust height as needed */
 }
 
 .students-table th,
@@ -48,7 +48,7 @@
   padding: 12px;
   text-align: left;
   height: 60px;
-  width: 150px;
+  width: 120px;
 }
 
 .students-table th {
